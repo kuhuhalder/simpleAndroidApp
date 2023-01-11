@@ -11,6 +11,7 @@ Time spent: **2** hours spent in total
 The following **required** functionality is completed:
 
 * [X] Image and introductory message displayed on screen
+
 Image is not displayed
 * [X] Button displayed on screen
 * [X] Toast with message appears when button is pressed

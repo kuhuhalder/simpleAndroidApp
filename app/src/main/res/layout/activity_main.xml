@@ -28,7 +28,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@drawable/golden_retriever"
-        android:scaleType="fitXY"
         />
 
     <Button
